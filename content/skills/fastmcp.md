@@ -18,8 +18,8 @@ links:
   docs: https://gofastmcp.com
   install: pip install fastmcp
 metrics:
-  githubStars: 28686
-  lastCommit: 2026-11-20
+  githubStars: 28699
+  lastCommit: 2026-11-21
   license: Apache-2.0
   archived: false
 addedAt: 2026-09-15

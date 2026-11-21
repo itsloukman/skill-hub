@@ -16,7 +16,7 @@ author:
 links:
   source: https://github.com/GLips/Figma-Context-MCP
 metrics:
-  githubStars: 16267
+  githubStars: 16270
   lastCommit: 2026-11-15
   license: MIT
   archived: false

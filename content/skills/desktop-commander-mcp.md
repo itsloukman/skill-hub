@@ -17,8 +17,8 @@ links:
   source: https://github.com/wonderwhy-er/DesktopCommanderMCP
   install: npx @wonderwhy-er/desktop-commander@latest setup
 metrics:
-  githubStars: 10374
-  lastCommit: 2026-11-18
+  githubStars: 10382
+  lastCommit: 2026-11-20
   license: MIT
   archived: false
 addedAt: 2026-09-15
