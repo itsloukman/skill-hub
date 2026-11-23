@@ -21,7 +21,7 @@ origin:
   postedAt: 2026-08-14
 metrics:
   githubStars: 3671
-  lastCommit: 2026-11-21
+  lastCommit: 2026-11-23
   license: Apache-2.0
   archived: false
 addedAt: 2026-09-15
