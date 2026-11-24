@@ -17,7 +17,7 @@ links:
   source: https://github.com/ahujasid/blender-mcp
   install: claude mcp add blender uvx blender-mcp
 metrics:
-  githubStars: 35471
+  githubStars: 35623
   lastCommit: 2026-11-18
   license: MIT
   archived: false
